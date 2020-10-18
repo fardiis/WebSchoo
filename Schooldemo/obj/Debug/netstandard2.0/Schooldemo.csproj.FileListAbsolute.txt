@@ -1,0 +1,9 @@
+D:\Mvc\New folder\Schooldemo\bin\Debug\netstandard2.0\Schooldemo.deps.json
+D:\Mvc\New folder\Schooldemo\bin\Debug\netstandard2.0\Schooldemo.dll
+D:\Mvc\New folder\Schooldemo\obj\Debug\netstandard2.0\Schooldemo.csprojAssemblyReference.cache
+D:\Mvc\New folder\Schooldemo\obj\Debug\netstandard2.0\Schooldemo.AssemblyInfoInputs.cache
+D:\Mvc\New folder\Schooldemo\obj\Debug\netstandard2.0\Schooldemo.AssemblyInfo.cs
+D:\Mvc\New folder\Schooldemo\bin\Debug\netstandard2.0\Schooldemo.pdb
+D:\Mvc\New folder\Schooldemo\obj\Debug\netstandard2.0\Schooldemo.dll
+D:\Mvc\New folder\Schooldemo\obj\Debug\netstandard2.0\Schooldemo.pdb
+D:\Mvc\New folder\Schooldemo\obj\Debug\netstandard2.0\Schooldemo.csproj.CoreCompileInputs.cache
